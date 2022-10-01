@@ -429,7 +429,7 @@ class Main:
 		print(" [4] 2009-10 Cloning")
 		print(" [5] 2011-14 Cloning")
 		print(" [E] Exit Programming\n")
-		Abu Talha  =input(" Choose : ")
+		Abu Talha  =input(" Choose ")
 		if Abu Abu Talha  in ["1", "01"]:
 			File()
 		if Abu Abu Talha  in ["2", "02"]:
